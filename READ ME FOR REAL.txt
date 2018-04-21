@@ -1,1 +1,3 @@
-I have uploaded all of our builds as ZIP files but they are too big to view their contents on Github so you will have to download them to view contents but everything is there. Also our final build was too large for GitHub so I uploaded all the C# scripts we used instead minius the Unity Scenes and Sounds Files and extra bloat inside of a zip file called "C# Scripts"
+I have uploaded all of our builds as ZIP files but they are too big to view their contents on Github so you will have to download them 
+to view contents but everything is there. Also our final build was too large for GitHub so I uploaded all the C# scripts we used 
+instead minius the Unity Scenes and Sounds Files and extra bloat inside of a zip file called "C# Scripts"
